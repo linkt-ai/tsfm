@@ -1,6 +1,9 @@
 # Ignore model checkpoints
 checkpoints/
 
+# Ignore dataset directories
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
